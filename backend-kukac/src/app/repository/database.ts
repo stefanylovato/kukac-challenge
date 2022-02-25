@@ -1,0 +1,5 @@
+exports.database = {
+    cars: [],
+    motorcycles: []
+}
+

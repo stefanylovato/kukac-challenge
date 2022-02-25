@@ -1,0 +1,18 @@
+
+.background {
+    margin-bottom: 4rem;
+}
+
+.card{
+    min-height: 100px !important;
+    background-color: #f8f8f8;
+    margin-right: 1rem;
+    &:hover{
+        transform: scale(1.03);
+        transition: transform 0.5s ease-in-out;
+
+    }
+    .btn{
+        align-items: center;
+    }
+}
